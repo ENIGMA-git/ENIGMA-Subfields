@@ -1,6 +1,6 @@
 ## ENIGMA Hippocampal Subfields Extraction and QC Protocol
 
-![HIPPOCAMPAL SUBFIELDS](https://raw.githubusercontent.com/ENIGMA-git/ENIGMA-Subfields/refs/heads/main/images/Fig1.png?token=GHSAT0AAAAAACTJ25O6EV3UO2CG7AJPZ3HYZX4SKPA "ENIGMA")
+![HIPPOCAMPAL SUBFIELDS](images/Fig1.png)
 
 The hippocampal formation plays an important role in episodic memory, and is implicated in a variety of neurological and psychiatric disorders. Individual subfields of the hippocampus have been associated with distinct aspects of memory formation; for example, dentate gyrus granule cells and CA3/CA4 pyramidal cells are critical to declarative memory acquisition, whereas the CA1, subiculum and entorhinal cortex are involved in disambiguation during working memory processes. Until recently, delineation of these hippocampal subfields for further analysis depended upon laborious manual segmentation methods. A number of automated segmentation techniques, including the widely-employed FreeSurfer ‘-hippo-subfield’ algorithm, now offer the ability to efficiently detect hippocampal subregions using fully automated, noninvasive in vivo neuroimaging. The FreeSurfer algorithm employs Bayesian inferences from ‘prior’ probabilistic atlases to predict the location of hippocampal subfield voxels and has shown strong correlations with manual delineations. Basic information on the hippocampal subfield and amydala subnuclei tool can be found on the respective FreeWiki page: https://surfer.nmr.mgh.harvard.edu/fswiki/HippocampalSubfieldsAndNucleiOfAmygdala
 
